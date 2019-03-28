@@ -46,6 +46,7 @@ public class Mycontrol {
 //eidting server
 //eidting by liing
 //eidting by libing
+//eidting by libing222
 	
 	@ResponseBody
 	@RequestMapping("getresp")
