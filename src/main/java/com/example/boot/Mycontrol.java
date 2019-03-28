@@ -42,6 +42,7 @@ public class Mycontrol {
 //	}
 //edit on git
 //edit on eclipes
+//eidting server
 	
 	@ResponseBody
 	@RequestMapping("getresp")
