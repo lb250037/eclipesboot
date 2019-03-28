@@ -40,6 +40,7 @@ public class Mycontrol {
 ////		System.out.println(list);
 //		return list;
 //	}
+//edit on git
 	
 	@ResponseBody
 	@RequestMapping("getresp")
